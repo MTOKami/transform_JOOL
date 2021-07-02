@@ -1,8 +1,8 @@
 public class test {
 
-    int i;
-    
-    int j;
+    int o;
 
 
+
+    int l;
 }
